@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+
+# Database
+*.db
+
+# Claude Code
+.claude/
+
+# http debug files
+*.http
+
+todo.md
